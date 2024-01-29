@@ -88,13 +88,23 @@ section h2 {
     background-color: rgba(0, 255, 255, 0.1);
 }
 
+#economy {
+    background-color: #fffa9f;
+}
+
+#tecnology {
+    background-color: rgb(125 211 252);
+}
+
+#entertainment {
+    background-color: rgb(252 165 165);
+}
+
+
 #sports .articles article a {
     background-color: #009432;
 }
 
-#economy {
-    background-color: #fffa9f;
-}
 
 #economy .articles article a {
     background-color: #ff9f1a;
